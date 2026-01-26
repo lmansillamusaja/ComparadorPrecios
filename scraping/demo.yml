@@ -1,0 +1,14 @@
+nombre: "carlos"
+escasado: true
+edad: 30
+hobbies:
+  - "leer"
+  - "correr"
+  - "programar"
+Persona:
+  nombre: "ana"
+  edad: 25
+  hobbies:
+    - "pintar"
+    - "bailar"
+    - "viajar"
