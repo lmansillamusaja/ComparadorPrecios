@@ -1,1 +1,3 @@
-versiones 3
+estas modo desarrollador
+
+se instalo pandas
